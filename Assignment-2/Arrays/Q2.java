@@ -1,4 +1,7 @@
+//2. Write a program to take in 10 values and print only those numbers which are prime.
+
 import java.util.Scanner;
+
 public class Q2 {
     public static boolean isPrime(int n){
         if(n==1) return false;

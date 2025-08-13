@@ -1,3 +1,11 @@
+/* 10. Write a menu driven program to do following operation on two dimensional array A of size m x n. You should use user-defined methods which accept 2-D array A, and its size m and n as arguments. The options are:
+● To input elements into matrix of size m x n
+● To display elements of matrix of size m x n
+● Sum of all elements of matrix of size m x n
+● To display row-wise sum of matrix of size m x n
+● To display column-wise sum of matrix of size m x n
+● To create transpose of matrix of size n x m*/
+
 import java.util.Scanner;
 public class Q10 {
         public static int[][] insert(int[][]arr,int m,int n){

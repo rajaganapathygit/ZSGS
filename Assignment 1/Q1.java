@@ -1,3 +1,4 @@
+//Write a code to illustrate the various scope of variables(static, local, instance, block, final variables)?
 public class Q1{
     //Scope of a variable
     int instance;

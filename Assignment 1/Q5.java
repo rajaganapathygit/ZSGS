@@ -1,3 +1,4 @@
+//Write a program that illustrate the execution order of static block and initializer block?
 class Static{
     static{
         System.out.println("This is static block");

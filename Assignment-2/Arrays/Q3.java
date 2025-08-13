@@ -1,4 +1,6 @@
-public class Q3 {
+//3. Write a program which generates 30 terms of Fibonacci no in an array and then prints it.
+
+public class Q3{
     public static void main(String[] args){
         int arr[] = new int[50];
         arr[0] = 0;

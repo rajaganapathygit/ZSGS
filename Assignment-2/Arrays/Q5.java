@@ -1,5 +1,9 @@
+/* 5. Write a program to initialize the following character arrays and print a suitable message after checking the arrays whether the two arrays are identical or not. Make suitable use of Boolean data type. X[] =('m', 'n', 'o', 'p'} and Y[] =('m', 'n', 'o', 'p' }
+X[] =('m', 'n', 'o', 'p'} and
+Y[] =('m', 'n', 'o', 'p' } */
+
 import java.util.Scanner;
-public class Q5{
+public class Q5 {
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter the size of array1: ");

@@ -1,5 +1,7 @@
+//9. Write an array which takes in roll no and marks in 3 subjects for 10 students. Format and Print the roll no, total marks and average for all students in a table form.
+
 import java.util.Scanner;
-public class Q9 {
+public class Q9{
     public static void calculateTotal(int roll_no[], int marks1[],int marks2[], int marks3[]){
         int sum[]= new int[3];
         double avg[] = new double[3];

@@ -1,4 +1,8 @@
+//Write a program to check if a number is a power of 2?
 import java.util.Scanner;
+
+import java.util.Scanner;
+
 public class Q7 {
     public static void main(String[] args){
         //Power of 2

@@ -1,4 +1,9 @@
+//Write a program to find the maximum of two numbers using ternary operator.
+
 import java.util.Scanner;
+
+import java.util.Scanner;
+
 public class Q3 {
     public static void main(String[] args){
         //Maximum of 2 value

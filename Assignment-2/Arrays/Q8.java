@@ -1,4 +1,7 @@
+//8. Write a program which takes in 10 people’s age and gives number of people who are <18, 18-60, >60.
+
 import java.util.Scanner;
+
 public class Q8 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);

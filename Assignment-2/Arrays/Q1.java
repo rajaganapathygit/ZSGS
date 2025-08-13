@@ -1,4 +1,7 @@
+//1. Write a program that creates an integer array of 10 elements, accepts values of arrays and Find the sum of all odd numbers.
+
 import java.util.Scanner;
+
 public class Q1 {
     public static int sumOdd(int nums[]){
         int sum = 0;

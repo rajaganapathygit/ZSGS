@@ -1,3 +1,5 @@
+// Write a program in which, declare all data types like integer, double, float, long integer, character and byte data and print them.
+
 public class Q2 {
     public static void main(String[] args){
         //Data types

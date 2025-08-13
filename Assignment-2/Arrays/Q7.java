@@ -1,4 +1,7 @@
+//7. Write a program to input and store the weight of ten people. Sort and display them in descending order using the Selection sort technique.
+
 import java.util.Scanner;
+
 public class Q7 {
     public static int[] selectionSort(int nums[]){
         for(int i=0;i<nums.length-1;i++){
