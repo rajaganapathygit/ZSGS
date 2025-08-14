@@ -2,3 +2,6 @@
 SerializableDemo.java
 FileHandling.java
 *.txt
+*.iml
+out/
+.idea/
