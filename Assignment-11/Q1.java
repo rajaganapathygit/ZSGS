@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Q1{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
-		File file = new File("Q1 txt file");
+		File file = new File("Q1.txt");
 		if(file.exists()){
 			System.out.println("File exists.");
 		}

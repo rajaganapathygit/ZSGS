@@ -4,7 +4,7 @@ import java.io.*;
 
 public class Q3{
 	public static void main(String[] args)throws IOException{
-		FileReader file = new FileReader("Q1 txt file");
+		FileReader file = new FileReader("Q1.txt");
 		
         int lineCount = 0;
         int charCount = 0;
